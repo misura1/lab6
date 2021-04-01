@@ -1,23 +1,14 @@
 
- 
-#blok1{
-border:1px solid red;
-width:150px;
-height:50px;
-}
- 
 #blok1{
 border:1px solid red;
 width:150px;
 height:50px;
 float:left;
 }
-    
-#blok1{
+#blok2{
 border:1px solid red;
 width:150px;
 height:50px;
 float:right;
 }
-
 
